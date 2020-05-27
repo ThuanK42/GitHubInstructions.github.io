@@ -191,3 +191,5 @@ Giao thức thông dụng nhất cũng như dễ hiểu nhất, thường đư�
 
 ### SSH Repository ###
 Giao thức này thường được dùng trên các nhu cầu tạo một server repository riêng và kết nối thông qua giao thức SSH. Đường dẫn của giao thức này sẽ có dạng là user@server:/path/repository.git. Ở phần cuối serie mình sẽ hướng dẫn bạn cách tạo một repository server riêng và nó là lựa chọn rất tốt nếu bạn làm việc nhóm mà không cần phụ thuộc vào các dịch vụ như Github hay Assembla.
+
+*Nguồn: FB*
